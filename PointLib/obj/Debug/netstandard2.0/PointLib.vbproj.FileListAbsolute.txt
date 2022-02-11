@@ -1,0 +1,9 @@
+C:\Users\Валерия\source\repos\Points\PointLib\bin\Debug\netstandard2.0\PointLib.deps.json
+C:\Users\Валерия\source\repos\Points\PointLib\bin\Debug\netstandard2.0\PointLib.dll
+C:\Users\Валерия\source\repos\Points\PointLib\bin\Debug\netstandard2.0\PointLib.pdb
+C:\Users\Валерия\source\repos\Points\PointLib\obj\Debug\netstandard2.0\PointLib.vbprojAssemblyReference.cache
+C:\Users\Валерия\source\repos\Points\PointLib\obj\Debug\netstandard2.0\PointLib.AssemblyInfoInputs.cache
+C:\Users\Валерия\source\repos\Points\PointLib\obj\Debug\netstandard2.0\PointLib.AssemblyInfo.vb
+C:\Users\Валерия\source\repos\Points\PointLib\obj\Debug\netstandard2.0\PointLib.vbproj.CoreCompileInputs.cache
+C:\Users\Валерия\source\repos\Points\PointLib\obj\Debug\netstandard2.0\PointLib.dll
+C:\Users\Валерия\source\repos\Points\PointLib\obj\Debug\netstandard2.0\PointLib.pdb
